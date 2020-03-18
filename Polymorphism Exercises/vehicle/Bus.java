@@ -1,3 +1,5 @@
+package vehicle;
+
 import java.text.DecimalFormat;
 
 public class Bus extends Vehicle {

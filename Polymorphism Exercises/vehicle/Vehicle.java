@@ -1,3 +1,5 @@
+package vehicle;
+
 public abstract class Vehicle {
     private double fuelQuantity;
     private double fuelConsumption;
