@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb94a04a-8cc7-4c6e-9999-f7a25ece030a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../TestDrivenDevelopment/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/ProductStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-89">
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Instock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="89" column="45" lean-forward="true" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+              <folding>
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#1999#2000#0" expanded="true" />
+                <element signature="e#2131#2132#0" expanded="true" />
+                <element signature="e#2276#2277#0" expanded="true" />
+                <element signature="e#2605#2606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/Test/ProductStockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="180" column="51" lean-forward="true" selection-start-line="180" selection-start-column="51" selection-end-line="180" selection-end-column="51" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#1649#1650#0" expanded="true" />
+                <element signature="e#1716#1717#0" expanded="true" />
+                <element signature="e#1835#1836#0" expanded="true" />
+                <element signature="e#1902#1903#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Product.java" />
+        <option value="$PROJECT_DIR$/../TestDrivenDevelopment/src/Test/ProductTest.java" />
+        <option value="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/ProductStock.java" />
+        <option value="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Instock.java" />
+        <option value="$PROJECT_DIR$/../TestDrivenDevelopment/src/Test/ProductStockTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDrivenDevelopment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDrivenDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDrivenDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDrivenDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanyo\Desktop\TestDrivenDevelopment\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductStockTest.findAllByQuantityShouldReturnEmptyCollection">
+    <configuration name="ProductStockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductStockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductStockTest.findAllByQuantityShouldReturnCorrectValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductStockTest" />
+      <option name="METHOD_NAME" value="findAllByQuantityShouldReturnCorrectValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductStockTest.findAllByQuantityShouldReturnEmptyCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductStockTest" />
+      <option name="METHOD_NAME" value="findAllByQuantityShouldReturnEmptyCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductStockTest.findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductStockTest" />
+      <option name="METHOD_NAME" value="findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductStockTest.getIterableShouldReturnAllProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductStockTest" />
+      <option name="METHOD_NAME" value="getIterableShouldReturnAllProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductStockTest.findAllByQuantityShouldReturnEmptyCollection" />
+        <item itemvalue="JUnit.ProductStockTest" />
+        <item itemvalue="JUnit.ProductStockTest.findAllByQuantityShouldReturnCorrectValues" />
+        <item itemvalue="JUnit.ProductStockTest.getIterableShouldReturnAllProducts" />
+        <item itemvalue="JUnit.ProductStockTest.findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb94a04a-8cc7-4c6e-9999-f7a25ece030a" name="Default Changelist" comment="" />
+      <created>1585069303811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585069303811</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductStockTest_findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument - 2020.03.24 at 21h 20m 54s.xml">
+      <configuration name="ProductStockTest.findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest_findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument - 2020.03.24 at 21h 23m 20s.xml">
+      <configuration name="ProductStockTest.findFirstByAlphabeticalOrderShouldReturnEmptyCollectionWithIllegalArgument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest - 2020.03.24 at 21h 23m 32s.xml">
+      <configuration name="ProductStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest - 2020.03.24 at 21h 24m 54s.xml">
+      <configuration name="ProductStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest_getIterableShouldReturnAllProducts - 2020.03.24 at 21h 38m 42s.xml">
+      <configuration name="ProductStockTest.getIterableShouldReturnAllProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest_getIterableShouldReturnAllProducts - 2020.03.24 at 21h 39m 13s.xml">
+      <configuration name="ProductStockTest.getIterableShouldReturnAllProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest - 2020.03.24 at 21h 39m 19s.xml">
+      <configuration name="ProductStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest_findAllByQuantityShouldReturnCorrectValues - 2020.03.24 at 21h 47m 42s.xml">
+      <configuration name="ProductStockTest.findAllByQuantityShouldReturnCorrectValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest - 2020.03.24 at 21h 47m 48s.xml">
+      <configuration name="ProductStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductStockTest_findAllByQuantityShouldReturnEmptyCollection - 2020.03.24 at 21h 49m 04s.xml">
+      <configuration name="ProductStockTest.findAllByQuantityShouldReturnEmptyCollection" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/Test/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/ProductStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/Instock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="89" column="45" lean-forward="true" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+            <element signature="e#2131#2132#0" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2605#2606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDrivenDevelopment/src/Test/ProductStockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="180" column="51" lean-forward="true" selection-start-line="180" selection-start-column="51" selection-end-line="180" selection-end-column="51" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1902#1903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>inStock</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
