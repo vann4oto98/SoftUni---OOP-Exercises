@@ -1,7 +1,6 @@
 package repositories;
 
 import models.cards.interfaces.Card;
-import models.players.interfaces.Player;
 import repositories.interfaces.CardRepository;
 
 import java.util.Collections;

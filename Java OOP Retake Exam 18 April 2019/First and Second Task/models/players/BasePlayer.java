@@ -74,4 +74,19 @@ public abstract class BasePlayer implements Player {
             setDead(true);
         }
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(String.format(PLAYER_REPORT_INFO,
+                this.getUsername(),
+                this.getHealth(),
+                this.getCardRepository().getCount()))
+                .append(System.lineSeparator());
+        this.getCardRepository().getCards().forEach(card -> sb.append(card.toString())
+                .append(System.lineSeparator()));
+        sb.append(DEFAULT_REPORT_SEPARATOR);
+
+        return sb.toString().trim();
+    }
 }

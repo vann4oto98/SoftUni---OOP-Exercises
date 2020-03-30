@@ -2,7 +2,7 @@ package models.battleFields;
 
 import models.battleFields.interfaces.Battlefield;
 import models.cards.interfaces.Card;
-import models.players.Begginer;
+import models.players.Beginner;
 import models.players.interfaces.Player;
 
 public class BattleFieldImpl implements Battlefield {
@@ -57,7 +57,7 @@ public class BattleFieldImpl implements Battlefield {
     }
 
     private void preFightPreparation(Player player) {
-        if (!Begginer.class.getSimpleName().equals(player.getClass().getSimpleName())){
+        if (!Beginner.class.getSimpleName().equals(player.getClass().getSimpleName())){
             return;
         }
         player.setHealth(player.getHealth()+ BONUS_HEALTH);

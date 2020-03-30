@@ -54,4 +54,9 @@ public abstract class BaseCard implements Card {
         }
         this.healthPoints = healthPoints;
     }
+
+    @Override
+    public String toString() {
+        return String.format(CARD_REPORT_INFO, this.getName(), this.getDamagePoints());
+    }
 }
